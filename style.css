@@ -913,6 +913,7 @@ body {
 .home-content .greeting {
     font-size: 32px;
     font-weight: 700;
+    color: #5d838a;
     opacity: 0;
     animation: slideBottom 1s ease forwards;
     animation-delay: 0.7s;
@@ -935,6 +936,7 @@ body {
     font-size: 32px;
     font-weight: 700;
     margin-bottom: 20px;
+    color: #5d838a;
     opacity: 0;
     animation: slideLeft 1s ease forwards;
     animation-delay: 1.3s;
@@ -1779,7 +1781,7 @@ body {
     .home-content .greeting,
     .home-content .role {
         font-size: 24px;
-        color: #5d838a
+        color: #f4f9fa
     }
     .home-content .description {
         font-size: 16px;
